@@ -6,7 +6,7 @@ Cybersecurity/ Hacking
 
 * 🌍  I'm based in Other side of the Matrix
 * 🧠  I'm learning to think
-* 🤝  I'm open to collaborating on chaos
+* 🤝  I'm open to collaborating with chaos
 
 <a href="https://www.twitter.com/Yagami_Rait0_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Yagami_Rait0_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
